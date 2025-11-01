@@ -1,0 +1,220 @@
+(footprint "PAT9125EL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U1"
+		(at 2.398 -0.014 90)
+		(layer "F.SilkS")
+		(uuid "7d42fa2c-7120-4765-af16-3c533298b2d3")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PAT9125EL"
+		(at 0 -2.3 0)
+		(layer "F.Fab")
+		(uuid "4c82c8cd-1018-45e9-8d66-26551473de2d")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12226445-81cf-4d5b-bda1-7394de325b66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1728b33c-5db2-49fb-b055-5bf196aa09c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "019f3b58-468b-4d6b-8b86-c533960ac426")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.75 -1.6)
+		(end 1.75 -1.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f764c4d1-fab8-4504-805e-f8296500e77c")
+	)
+	(fp_line
+		(start -1.75 1.6)
+		(end -1.75 -1.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f494412-c171-41db-ad21-51790f8697e1")
+	)
+	(fp_line
+		(start -1.45 -0.4)
+		(end -1.45 0.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4807ac1-5866-4b2e-9457-28a6fa889d81")
+	)
+	(fp_line
+		(start -1.45 0.4)
+		(end -1 0.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86a9309d-e521-4de3-8c38-4a9898494f51")
+	)
+	(fp_line
+		(start -1 -0.4)
+		(end -1.45 -0.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c884dd2-23de-46fe-8d07-40ccf8dc9780")
+	)
+	(fp_line
+		(start -1 0.4)
+		(end -1 -0.4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42f1a902-0c51-448e-9ce6-5e653bebaac5")
+	)
+	(fp_line
+		(start -0.5 -0.45)
+		(end -0.5 0.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d156a0ba-9916-4101-b857-bedffca07e7a")
+	)
+	(fp_line
+		(start 1.75 -1.6)
+		(end 1.75 1.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e96fb02b-3c36-46b8-84f7-5f36b84f77af")
+	)
+	(fp_line
+		(start 1.75 1.6)
+		(end -1.75 1.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20134b8f-011e-408a-9041-f61b3570c3f7")
+	)
+	(pad "1" smd rect
+		(at -1.2 1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a83f469c-855d-40a8-b1a0-d40f7282087f")
+	)
+	(pad "2" smd rect
+		(at -0.4 1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "81c0c13f-bede-4e05-b6c8-525264087f62")
+	)
+	(pad "3" smd rect
+		(at 0.4 1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "62f63feb-8c2d-490c-ad35-d8abbe6df95f")
+	)
+	(pad "4" smd rect
+		(at 1.2 1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ca291889-a5fe-4cd2-9670-52b9d691d2c6")
+	)
+	(pad "5" smd rect
+		(at 1.2 -1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fd7209e3-7f8f-4a48-8b66-00f921d5ee19")
+	)
+	(pad "6" smd rect
+		(at 0.4 -1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "681b3d71-384c-401c-b6ad-1062cc702341")
+	)
+	(pad "7" smd rect
+		(at -0.4 -1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "25fcdb98-9085-43cf-9c06-e463c2abd2a1")
+	)
+	(pad "8" smd rect
+		(at -1.2 -1.065)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ffed9d96-105b-4b87-846b-6eecf6dce85a")
+	)
+	(pad "9" smd circle
+		(at 1.15 0)
+		(size 0.69 0.69)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "706758e8-2957-4551-8244-5c75f33fdbf3")
+	)
+	(model "${KIPRJMOD}/PAT9125EL.pretty/PAT9125Package.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

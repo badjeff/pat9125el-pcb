@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PAT9125EL")(type "KiCad")(uri "${KIPRJMOD}/PAT9125EL.pretty")(options "")(descr ""))
+)
