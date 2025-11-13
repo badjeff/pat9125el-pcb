@@ -5,10 +5,6 @@
 - Be operated with 3.3V voltage level ONLY.
 - Outlined as narrow as possible for side mount horizontally and perpendicular on low profile keyboards.
 
-<img src="photo-1.jpg" width="400">
-
-*Figure 1: Size comparing to Seeed XIAO BLE*
-
 ## PCB
 
 Online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fbadjeff%2Fpat9125el-pcb), powered by [KiCanvas](https://github.com/theacodes/kicanvas).
@@ -25,8 +21,8 @@ Online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fgithu
 
 |Designator|Footprint|Quantity|Value|LCSC Part #|
 |-|-|-|-|-|
-|C1, C5|SMD 0402|2|100nF||
-|C2, C4|SMD 0402|2|10uF||
+|C1|SMD 0402|1|100nF||
+|C2|SMD 0402|1|10uF||
 |C3|SMD 0402|1|4.7uF||
 |R1, R2|SMD 0402|1|5K||
 |U1|PAT9125EL|1|PAT9125EL-TKIT / TKMT||
@@ -37,8 +33,8 @@ Online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fgithu
 ### Board Characteristics
 
 - Copper layer count: 2
-- Board thickness: 1.6 mm or 1.2mm
-- Board overall dimensions: 4.93 x 10.39 mm
+- Board thickness: 1.6 mm or 1.2 mm or 1.0 mm
+- Board overall dimensions: 4.825 x 8.9 mm
 
 ### Voltage level config
 
