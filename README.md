@@ -5,6 +5,10 @@
 - Be operated with 3.3V voltage level ONLY.
 - Outlined as narrow as possible for side mount horizontally and perpendicular on low profile keyboards.
 
+<img src="photo-1.jpg" width="400">
+
+*Figure 1: Size comparing to Seeed XIAO BLE*
+
 ## PCB
 
 Online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fbadjeff%2Fpat9125el-pcb), powered by [KiCanvas](https://github.com/theacodes/kicanvas).
